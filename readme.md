@@ -41,5 +41,5 @@ C -->|Two| E[Result 2]
 
 ---
 
-[link to ADRs](ADRs\09_architecture_decisions.md)
+[link to ADRs](ADRs/09_architecture_decisions.md)
 
