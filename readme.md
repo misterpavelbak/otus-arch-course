@@ -16,3 +16,4 @@ C -->|Two| E[Result 2]
 ```
 
 :::image type="content" source="diagrams/C4.drawio.png" alt-text="c4":::
+![Current C4](diagrams/C4.drawio.png)
