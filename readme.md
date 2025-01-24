@@ -1,4 +1,4 @@
-# The Sysops Squad Architectural Kata
+# Система автоматизации процессов службы Service Desk (The Sysops Squad Architectural Kata)
 
 ## Содержание
 
