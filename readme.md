@@ -303,7 +303,7 @@ Penultimate Electronics — крупный электронный гигант, 
 
 ### Диаграмма развертывания
 
-![Current C4](diagrams/deployment.drawio.png)
+![Current C4](diagrams/deployment2.drawio.png)
 
 ---
 ## 5. Диаграммы последовательности для пользовательских сценариев
